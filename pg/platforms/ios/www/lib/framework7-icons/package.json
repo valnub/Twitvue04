@@ -1,0 +1,93 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "framework7-icons",
+        "scope": null,
+        "escapedName": "framework7-icons",
+        "name": "framework7-icons",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/valmar/dev/youtube/twitvue/episode03/live_code"
+    ]
+  ],
+  "_from": "framework7-icons@latest",
+  "_id": "framework7-icons@0.8.9",
+  "_inCache": true,
+  "_location": "/framework7-icons",
+  "_nodeVersion": "6.7.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/framework7-icons-0.8.9.tgz_1484126749817_0.8848271735478193"
+  },
+  "_npmUser": {
+    "name": "nolimits4web",
+    "email": "nolimits4web@gmail.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "framework7-icons",
+    "scope": null,
+    "escapedName": "framework7-icons",
+    "name": "framework7-icons",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/framework7-icons/-/framework7-icons-0.8.9.tgz",
+  "_shasum": "af94a6051be659f3f7b9d873fba6040c8fe72769",
+  "_shrinkwrap": null,
+  "_spec": "framework7-icons",
+  "_where": "/Users/valmar/dev/youtube/twitvue/episode03/live_code",
+  "author": {
+    "name": "Vladimir Kharlampidi"
+  },
+  "bugs": {
+    "url": "https://github.com/nolimits4web/Framework7-Icons/issues"
+  },
+  "dependencies": {},
+  "description": "Free iOS-icons font for Framework7",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "af94a6051be659f3f7b9d873fba6040c8fe72769",
+    "tarball": "https://registry.npmjs.org/framework7-icons/-/framework7-icons-0.8.9.tgz"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "gitHead": "dbd1609148b4c49565ca28b782213e95c21fc3f8",
+  "homepage": "http://framework7.io/icons/",
+  "keywords": [
+    "fonts",
+    "icon font",
+    "icons",
+    "framework7",
+    "web font",
+    "ios",
+    "ios icons"
+  ],
+  "license": "MIT",
+  "main": "",
+  "maintainers": [
+    {
+      "name": "nolimits4web",
+      "email": "nolimits4web@gmail.com"
+    }
+  ],
+  "name": "framework7-icons",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nolimits4web/Framework7-Icons.git"
+  },
+  "scripts": {},
+  "version": "0.8.9"
+}
